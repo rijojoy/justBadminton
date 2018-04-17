@@ -1,0 +1,8 @@
+{
+  "name": "justBadminton",
+  "app_id": "36928f62",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
